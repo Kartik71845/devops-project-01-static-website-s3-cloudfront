@@ -1,5 +1,7 @@
 # 🚀 DevOps Project 01 — Deploy Static Website using AWS S3 + CloudFront
 
+![alt text](<Untitled (1).gif>)
+
 This project demonstrates how to host a static website on AWS using **S3 Static Website Hosting** and deliver it globally through **CloudFront CDN**.  
 The setup also implements **Block Public Access** on the S3 bucket, allowing CloudFront to access the content securely.
 
